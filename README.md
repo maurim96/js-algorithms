@@ -1,4 +1,4 @@
-# JavaScript Exercises
+# JavaScript Algorithms
 
 Welcome to my JavaScript Algorithms repository. This repository contains various JavaScript exercises that I have solved and studied. Each exercise is organized into its own folder, with accompanying explanations and tests.
 
@@ -13,4 +13,4 @@ Welcome to my JavaScript Algorithms repository. This repository contains various
 1. Clone the repository:
    ```bash
    git clone git@github.com:maurim96/js-algorithms.git
-   cd javascript-exercises
+   cd js-algorithms
